@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/styles.css?v=1.0">
   </head>
   <body>
-    <h1>Tarnj</h1>
+    <h1>Tarnj sognature </h1>
     <script src="js/scripts.js"></script>
   </body>
 </html>
